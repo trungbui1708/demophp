@@ -99,6 +99,8 @@
 	echo '<pre>';
 	print_r($so2);
 	echo '</pre>';
+	//ĐÂy là cái mới viết
+	echo "Trung đẹp trai";
 	
 	 ?>
 </body>
